@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenyos/slack-copy-bot.git"
+    "url": "git+https://github.com/kenyos/slack-bot-copy.git"
   },
   "keywords": [
     "copybot",
